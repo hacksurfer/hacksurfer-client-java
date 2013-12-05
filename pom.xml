@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>hacksurfer-client</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/hacksurfer/hacksurfer-client-java</url>
 
     <properties>
         <source.version>1.7</source.version>
